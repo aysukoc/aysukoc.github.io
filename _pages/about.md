@@ -12,4 +12,4 @@ Here you can find information about me, my academic studies, and my teaching. Wi
 
 Short introduction:
 ------
-I am a Neuroscience MSc from Turkey, currently continuing my endeavors at JLU Gießen in Germany, as a research associate. If you notice any bugs/problems on this website, please email me at aysunurkoc@gmail.com. Thank you!
+I am a Neuroscience MSc from Turkey, currently continuing my endeavors at JLU Gießen in Germany, as a research associate. If you notice any bugs/problems with this website, please email me at aysunurkoc@gmail.com. Thank you!
