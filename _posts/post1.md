@@ -1,7 +1,7 @@
 ---
 title: 'Trial Post'
 date: 2024-09-18
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/2024/09/post1/
 tags:
   - cool posts
   - category1
