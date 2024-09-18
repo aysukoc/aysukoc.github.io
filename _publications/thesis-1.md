@@ -1,7 +1,7 @@
 ---
 title: "Perception of built environments and its neural modulation by the behavioral goals of the perceiver"
 collection: publications
-category: thesis
+category: paper
 permalink: /publication/thesis-1
 excerpt: 'This is my MSc thesis where I examined whole brain and ROI implications of task goals.'
 date: "2024-07-11"
