@@ -11,35 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in progress - Psychology, Justus-Liebig University Gießen, Germany (2024-)
+* Ph.D. left - Neuroscience, İhsan Doğramacı Bilkent University, Turkey (2023-2024)
+* M.Sc. - Neuroscience, İhsan Doğramacı Bilkent University, Turkey (2021-2023)
+* B.Sc. - Psychology, Middle East Technical University, Turkey (2015-2020)
+* Minor - History, Middle East Technical University, Turkey (2018-2020)
 
-Work experience
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Graduate Researcher, National Magnetic Resonance Research Center (UMRAM), Turkey (2021-2024)
+  * Affiliated through the Neuroscience Department
+  * MR acquisition, data collection
+  * Supervisor: Assoc. Prof. Burcu Ayşen Ürgen, Prof. Yasemin Afacan
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Teaching Assistant, Psychology, İhsan Doğramacı Bilkent University, Turkey (2021-2024)
+  * Introduction to Psychology, Introduction to Social Psychology, Experience of Space and Place...
+  * Teaching, proctoring, grading, coordination, office hours
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Intern, National Magnetic Resonance Research Center (UMRAM), Turkey (Summer 2019)
+  * MATLAB, journal club, data collection
+  * Supervisor: Assoc. Prof. Burcu Ayşen Ürgen
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming and Analysis: MATLAB, R, SPM...
+* Data Collection: Behavioral, EEG, fMRI
+  * Collected and analysed over 80 hours of fMRI data from human participants
+
 
 Publications
 ======
@@ -59,6 +57,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
