@@ -9,15 +9,12 @@ redirect_from:
 
 
 
-Hi! I'm Aysu. I am an aspiring scientist from Turkey, specializing in cognitive psychology and neuroscience. Currently, I am a doctoral researcher at JLU Gießen in Germany. My interests are visual perception, memory, and decision making - especially how they are affected by reward and punishment. During my Master's, I delved into the task-driven modulation of scene perception, focusing on the scene selective regions in the brain. I love studying the brain and the human behavior that help us understand the complicated ways the brain works, mainly using fMRI methods and accompanying behavioral experiments.
+Hi! I’m Aysu — a psychology and neuroscience enthusiast currently doing my PhD at JLU Gießen. I’m into all things perception, memory, and decision-making — especially how our brains react when we’re promised a little treat… or threatened with a little punishment. (Spoiler: it’s fascinating.)
 
+I started out my academic journey in Turkey, and now I’m continuing it in Germany — learning new languages, new methods, and constantly re-learning how strange and beautiful the brain is. During my Master’s, I got deep into scene perception — how what we’re trying to do changes the way we see. These days, I’m still poking around the brain (gently) and planning various experiments to make sense of the wild, weird ways we think, see, and choose.
 
-On this website you can find information about me and my academic endeavors. On the sidebar you can find my socials and academic links. Using the navigation bar, you can easily access my CV, recent posts, publications, and teaching material.
+This site is where I share what I’m working on — from research to teaching stuff to random academic ramblings. You can use the navigation bar to check out my CV, publications, recent posts, and teaching materials. And if you want to just say hi or even stalk me professionally (please do), my socials and academic profiles are hanging out on the sidebar.
 
+I’ll be adding more soon — this is a work in progress, just like all good brains.
 
-Will add more content soon. 
-
-
-If you notice any bugs/problems with this website, please email me at aysunurkoc@gmail.com. Thank you!
-
-
+And hey, if the website breaks or something’s glitchy, feel free to email me at aysunurkoc@gmail.com. Thanks for stopping by — and hoş geldin!
