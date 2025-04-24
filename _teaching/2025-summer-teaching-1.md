@@ -10,11 +10,9 @@ location: "Gießen, Germany"
 
 My first "proper" teaching experience, this semester I'm offering the Seminar in Biological Psychology to undergraduate Psychology students. 
 
-Heading 1
+Presentations
 ======
 
-Heading 2
+Class Discussions
 ======
 
-Heading 3
-======
