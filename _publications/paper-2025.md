@@ -2,7 +2,7 @@
 title: "Task-Modulated Neural Responses in Scene-Selective Regions of the Human Brain"
 collection: publications
 category: manuscripts
-permalink: /publication/paper_2025
+permalink: /publication/paper-2025
 excerpt: 'Final publication of my masters work, investigating the impact of task on scene perception'
 date: "2024-12-28"
 venue: 'Vision research'
