@@ -8,7 +8,7 @@ date: 2025-04-28
 location: "Gießen, Germany"
 ---
 
-My first "proper" teaching experience, this semester I'm offering the Seminar in Biological Psychology to undergraduate Psychology students. 
+My first "proper" teaching experience: I offered the Seminar in Biological Psychology to undergraduate Psychology students in the 2025 Summer Term. I got really positive feedback from my students! 
 
 Presentations
 ======
