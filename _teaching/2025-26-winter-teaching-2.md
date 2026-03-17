@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 2"
+title: "BioPsych Seminar, Winter 2026"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-26-winter-teaching-2
