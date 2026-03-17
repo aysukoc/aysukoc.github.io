@@ -10,9 +10,5 @@ location: "Gießen, Germany"
 
 My first "proper" teaching experience: I offered the Seminar in Biological Psychology to undergraduate Psychology students in the 2025 Summer Term. I got really positive feedback from my students! 
 
-Presentations
-======
-
-Class Discussions
-======
+The course consisted of student presentations and following discussions on various topics.
 
