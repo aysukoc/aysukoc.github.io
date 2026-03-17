@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "BioPsy Seminar, Summer 2025"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-summer-teaching-1
