@@ -36,7 +36,8 @@ Skills
 ======
 * Programming and Analysis: MATLAB, R, SPM...
 * Data Collection: Behavioral, EEG, fMRI
-  * Collected and analysed over 80 hours of fMRI data from human participants
+  * Collected and analysed over 80 hours of fMRI data from human participants for my MSc project
+  * And at least that much more for my current PhD project!
 
 
 Publications
