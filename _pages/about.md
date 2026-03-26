@@ -9,12 +9,12 @@ redirect_from:
 
 
 
-Hi! I’m Aysu — a psychology and neuroscience enthusiast currently doing my PhD at JLU Gießen. I’m into perception, memory, reward, and decision-making — especially how our brains react when we’re promised a little treat… or threatened with a little punishment.
+Hi! I’m Aysu — a psychologist & neuroscientist currently working towards my doctorate at JLU Gießen. I’m into perception, memory, reward, and decision-making — especially how our brains react when we’re promised a little treat :)
 
-I started out my academic journey in Turkey, and now I’m continuing it in Germany — learning new languages, new methods, and constantly re-learning how strange and beautiful the brain is. During my Master’s, I got deep into scene perception — how what we’re trying to do changes the way we see. These days, I’m still poking around the brain and planning experiments to make sense of the wild, weird ways we think, see, and choose.
+I started out my academic journey in Turkey, and now I’m continuing it in Germany — learning new languages, new methods, and constantly being amazed by the beauty of the human brain. During my Master’s, I studied scene perception — how what we’re trying to do changes the way we see. These days, I’m slowly exploring my recently collected fMRI data - I ran a visual perception experiment with a twist of reward. Stay tuned for the results!
 
-This site is where I share what I’m working on — from research to teaching stuff to random academic ramblings. You can use the navigation bar to check out my CV, publications, recent posts, and teaching materials. And if you want to just say hi or even stalk me professionally, my socials and academic profiles are on the sidebar.
+This site is where I share what I’m working on — from research to teaching stuff to random academic ramblings. You can use the navigation bar to check out my CV, publications, recent posts, and teaching updates. And if you want to just say hi or even stalk me professionally, my socials and academic profiles are on the sidebar.
 
-I’ll be adding more soon — this is a work in progress.
+I’ll be adding more soon — this site is a work in progress.
 
-And if the website breaks or something’s glitchy, feel free to email me at aysunurkoc@gmail.com. Thanks for stopping by — and hoş geldin!
+And if the website breaks or something’s glitchy, feel free to email me at aysunurkoc@gmail.com. Thanks for stopping by — and hoş geldin!!
