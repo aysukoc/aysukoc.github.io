@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Aysu Koc | MSc"
+title: "Aysu Koc, MSc"
 author_profile: true
 redirect_from: 
   - /about/
