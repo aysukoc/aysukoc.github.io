@@ -12,7 +12,7 @@ title                    : "Aysu KOÇ"
 title_separator          : "-"
 name                     : &name "Aysu KOÇ"
 description              : &description "Msc in Neuroscience, PhD in progress"
-url                      : https://aysu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://aysukoc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aysukoc/aysu.github.io"
 
@@ -22,7 +22,7 @@ repository               : "aysukoc/aysu.github.io"
 author:
   # Biographic information
   avatar           : "ak - Copy.jpeg"
-  name             : "Aysu KOC"
+  name             : "Aysu KOÇ"
   pronouns         : # example: "she/her"  
   bio              : "Msc, PhD candidate, TA"
   location         : "Germany"
