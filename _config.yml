@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Aysu KOÇ"
+title                    : "Aysu Nur KOÇ"
 title_separator          : "-"
-name                     : &name "Aysu KOÇ"
+name                     : &name "Aysu Nur KOÇ"
 description              : &description "Msc in Neuroscience, PhD in progress"
 url                      : https://aysukoc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "aysukoc/aysukoc.github.io"
 author:
   # Biographic information
   avatar           : "ak - Copy.jpeg"
-  name             : "Aysu KOÇ"
+  name             : "Aysu Nur KOÇ"
   pronouns         : # example: "she/her"  
   bio              : "Msc, PhD candidate, TA"
   location         : "Germany"
